@@ -1,0 +1,17 @@
+.container-fluid{
+    background-color: blue;
+    display: none;
+    
+}
+
+.h1{
+    color: white;
+    justify-content: center;
+
+}
+
+.navbar-brand{
+    justify-content: center;
+    font-size: 50px;
+
+}
